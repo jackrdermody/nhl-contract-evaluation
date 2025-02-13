@@ -51,5 +51,6 @@ Scroll to bottom of the page and click download in the bottom left.
 ### Evaluation is a binary variable that looks at Surplus Value. If a player has 1 in the Evaluation column, his Surplus Value is Positive. If a player has 0 in the Evaluation column, his Surplus Value is negative. 
 
 #### I have provided the files necessary to run my code for yourself. Download the python workbook (.ipynb file) and both csv files, then make sure you have the necessary packages installed on your device. 
+#### There is also a player search function at the very bottom of the Jupyter notebook if you are interested in a particular contract or team!
 
 
